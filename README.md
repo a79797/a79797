@@ -17,7 +17,7 @@ Desenvolvido no âmbito da unidade curricular de **Sistemas Paralelos e Distribu
 - CockroachDB (base de dados distribuída)
 - Docker (contenção e portabilidade)
 
-> [Acede ao repositório do projeto aqui](https://github.com/a79797/a79797) (privado com acesso dos docentes).
+> [Acede ao repositório do projeto aqui](https://github.com/a79797/UALG-a79797-kvstore) (privado com acesso dos docentes).
 
 ---
 

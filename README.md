@@ -11,7 +11,7 @@
 🔧 **Sistema Distribuído Key-Value**  
 Desenvolvido no âmbito da unidade curricular de **Sistemas Paralelos e Distribuídos**, este projeto implementa um sistema distribuído para gestão de dados chave-valor utilizando:
 
-- FastAPI (REST API)
+- Python/Flask (REST API)
 - Redis (cache em memória)
 - RabbitMQ (fila de mensagens)
 - CockroachDB (base de dados distribuída)
